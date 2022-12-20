@@ -1,0 +1,47 @@
+body{
+    background-image: url("blue.jpeg");
+}
+.container{
+    width: 1200;
+    margin: 30px;
+    border: 1 px solid white
+    
+}
+.class{
+    padding: 10px;
+    width: 60%;
+    height: 400px;
+    margin: auto;
+    color: white;
+    border: 1px solid white;
+}
+ img{
+    width: 350px;
+    float: right;
+    padding: 20px;
+    margin: 0px;
+ }
+
+.list{
+    padding: 10px;
+}
+.btn{
+    padding: 10px;
+    margin: 40px;
+}
+
+
+
+.box1{
+    color: white;
+    border: 2px solid white;
+    /* background-color: black; */
+    width: 250px;
+    height: 200px;
+    text-align: center;
+   display: inline-block;
+   /* margin: 40px; */
+   padding: 10px;
+   margin-left: 200px ;
+   
+}
